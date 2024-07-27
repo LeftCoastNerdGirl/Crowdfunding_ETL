@@ -1,8 +1,8 @@
-# Crowdfunding_ETL
+# Using an Extract, Transform, Load (ETL) process to clean up crowdfunding campaign data
 
 This project require a fair amount of data cleaning and prep.  
 
-First I worked on the crowdfunding spreadsheet.  
+First I worked on the crowdfunding spreadsheet  
 -Imported as a pandas dataframe.  
 -Split 'category & sub-category' column into two separate columns.  
 -Created variables to store lists of the category and subcategory names.  
