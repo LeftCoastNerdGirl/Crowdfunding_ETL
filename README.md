@@ -1,6 +1,6 @@
 # Using an Extract, Transform, Load (ETL) process to clean up crowdfunding campaign data
 
-This project required a fair amount of data cleaning and prep. This was Group Project #2, though some 'groups' were individuals. I completed this project as a 'group' of one.  
+This mini project required a fair amount of data cleaning and prep. This was Group Project #2, though some 'groups' were individuals. I completed this project as a 'group' of one.  
 
 First I worked on the crowdfunding spreadsheet  
 -Imported as a pandas dataframe.  
